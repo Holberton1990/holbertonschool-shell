@@ -11,10 +11,12 @@
 # hlsearch on (H) or off (h):
 ~h
 # Command Line History (newest to oldest):
+:wq!
+|2,0,1686158216,,"wq!"
 :q!
-|2,0,1686049230,,"q!"
+|2,0,1686128328,,"q!"
 :w
-|2,0,1686037754,,"w"
+|2,0,1686128317,,"w"
 :wq
 |2,0,1686036053,,"wq"
 
@@ -29,234 +31,294 @@
 # Registers:
 
 # File marks:
-'0  1  0  ~/holbertonschool-zero_day/git/README.md
-|4,48,1,0,1686049230,"~/holbertonschool-zero_day/git/README.md"
-'1  1  0  ~/holbertonschool-zero_day/git/README.md
-|4,49,1,0,1686048306,"~/holbertonschool-zero_day/git/README.md"
-'2  1  0  ~/vi/undoing
-|4,50,1,0,1686037759,"~/vi/undoing"
-'3  1  0  ~/vi/pasting
-|4,51,1,0,1686037673,"~/vi/pasting"
-'4  1  0  ~/vi/end_of_the_line
-|4,52,1,0,1686037489,"~/vi/end_of_the_line"
-'5  1  0  ~/vi/beginning_of_the_line
-|4,53,1,0,1686037330,"~/vi/beginning_of_the_line"
-'6  1  1  ~/vi/exiting
-|4,54,1,1,1686037118,"~/vi/exiting"
-'7  1  1  ~/vi/exiting
-|4,55,1,1,1686037017,"~/vi/exiting"
-'8  1  1  ~/vi/pasting
-|4,56,1,1,1686036755,"~/vi/pasting"
-'9  1  1  ~/vi/cutting
-|4,57,1,1,1686036650,"~/vi/cutting"
+'0  3  0  ~/holbertonschool-shell/basics/0-current_working_directory
+|4,48,3,0,1686158216,"~/holbertonschool-shell/basics/0-current_working_directory"
+'1  2  2  ~/holbertonschool-shell/basics/0-current_working_directory
+|4,49,2,2,1686157822,"~/holbertonschool-shell/basics/0-current_working_directory"
+'2  2  2  ~/holbertonschool-shell/basics/0-current_working_directory
+|4,50,2,2,1686157822,"~/holbertonschool-shell/basics/0-current_working_directory"
+'3  2  0  ~/holbertonschool-shell/basics/0-current_working_directory
+|4,51,2,0,1686153786,"~/holbertonschool-shell/basics/0-current_working_directory"
+'4  2  0  ~/holbertonschool-shell/basics/0-current_working_directory
+|4,52,2,0,1686153786,"~/holbertonschool-shell/basics/0-current_working_directory"
+'5  2  0  ~/holbertonschool-shell/basics/0-current_working_directory
+|4,53,2,0,1686152564,"~/holbertonschool-shell/basics/0-current_working_directory"
+'6  2  0  ~/holbertonschool-shell/basics/0-current_working_directory
+|4,54,2,0,1686152564,"~/holbertonschool-shell/basics/0-current_working_directory"
+'7  2  0  ~/holbertonschool-shell/basics/0-current_working_directory
+|4,55,2,0,1686152564,"~/holbertonschool-shell/basics/0-current_working_directory"
+'8  2  0  ~/holbertonschool-shell/basics/0-current_working_directory
+|4,56,2,0,1686152564,"~/holbertonschool-shell/basics/0-current_working_directory"
+'9  2  0  ~/holbertonschool-shell/basics/0-current_working_directory
+|4,57,2,0,1686143856,"~/holbertonschool-shell/basics/0-current_working_directory"
 
 # Jumplist (newest first):
--'  1  0  ~/holbertonschool-zero_day/git/README.md
-|4,39,1,0,1686049230,"~/holbertonschool-zero_day/git/README.md"
--'  1  0  ~/holbertonschool-zero_day/git/README.md
-|4,39,1,0,1686048306,"~/holbertonschool-zero_day/git/README.md"
--'  1  0  ~/vi/undoing
-|4,39,1,0,1686037759,"~/vi/undoing"
--'  1  0  ~/vi/undoing
-|4,39,1,0,1686037759,"~/vi/undoing"
--'  1  0  ~/vi/undoing
-|4,39,1,0,1686037759,"~/vi/undoing"
--'  1  0  ~/vi/undoing
-|4,39,1,0,1686037759,"~/vi/undoing"
--'  1  0  ~/vi/pasting
-|4,39,1,0,1686037673,"~/vi/pasting"
--'  1  0  ~/vi/pasting
-|4,39,1,0,1686037673,"~/vi/pasting"
--'  1  0  ~/vi/pasting
-|4,39,1,0,1686037673,"~/vi/pasting"
--'  1  0  ~/vi/pasting
-|4,39,1,0,1686037673,"~/vi/pasting"
--'  1  0  ~/vi/pasting
-|4,39,1,0,1686037673,"~/vi/pasting"
--'  1  0  ~/vi/pasting
-|4,39,1,0,1686037673,"~/vi/pasting"
--'  1  0  ~/vi/pasting
-|4,39,1,0,1686037673,"~/vi/pasting"
--'  1  0  ~/vi/pasting
-|4,39,1,0,1686037673,"~/vi/pasting"
--'  1  0  ~/vi/end_of_the_line
-|4,39,1,0,1686037489,"~/vi/end_of_the_line"
--'  1  0  ~/vi/end_of_the_line
-|4,39,1,0,1686037489,"~/vi/end_of_the_line"
--'  1  0  ~/vi/end_of_the_line
-|4,39,1,0,1686037489,"~/vi/end_of_the_line"
--'  1  0  ~/vi/end_of_the_line
-|4,39,1,0,1686037489,"~/vi/end_of_the_line"
--'  1  0  ~/vi/end_of_the_line
-|4,39,1,0,1686037489,"~/vi/end_of_the_line"
--'  1  0  ~/vi/end_of_the_line
-|4,39,1,0,1686037489,"~/vi/end_of_the_line"
--'  1  0  ~/vi/end_of_the_line
-|4,39,1,0,1686037489,"~/vi/end_of_the_line"
--'  1  0  ~/vi/end_of_the_line
-|4,39,1,0,1686037489,"~/vi/end_of_the_line"
--'  1  0  ~/vi/end_of_the_line
-|4,39,1,0,1686037489,"~/vi/end_of_the_line"
--'  1  0  ~/vi/end_of_the_line
-|4,39,1,0,1686037489,"~/vi/end_of_the_line"
--'  1  0  ~/vi/end_of_the_line
-|4,39,1,0,1686037489,"~/vi/end_of_the_line"
--'  1  0  ~/vi/end_of_the_line
-|4,39,1,0,1686037489,"~/vi/end_of_the_line"
--'  1  0  ~/vi/end_of_the_line
-|4,39,1,0,1686037489,"~/vi/end_of_the_line"
--'  1  0  ~/vi/end_of_the_line
-|4,39,1,0,1686037489,"~/vi/end_of_the_line"
--'  1  0  ~/vi/end_of_the_line
-|4,39,1,0,1686037489,"~/vi/end_of_the_line"
--'  1  0  ~/vi/end_of_the_line
-|4,39,1,0,1686037489,"~/vi/end_of_the_line"
--'  1  0  ~/vi/beginning_of_the_line
-|4,39,1,0,1686037330,"~/vi/beginning_of_the_line"
--'  1  0  ~/vi/beginning_of_the_line
-|4,39,1,0,1686037330,"~/vi/beginning_of_the_line"
--'  1  0  ~/vi/beginning_of_the_line
-|4,39,1,0,1686037330,"~/vi/beginning_of_the_line"
--'  1  0  ~/vi/beginning_of_the_line
-|4,39,1,0,1686037330,"~/vi/beginning_of_the_line"
--'  1  0  ~/vi/beginning_of_the_line
-|4,39,1,0,1686037330,"~/vi/beginning_of_the_line"
--'  1  0  ~/vi/beginning_of_the_line
-|4,39,1,0,1686037330,"~/vi/beginning_of_the_line"
--'  1  0  ~/vi/beginning_of_the_line
-|4,39,1,0,1686037330,"~/vi/beginning_of_the_line"
--'  1  0  ~/vi/beginning_of_the_line
-|4,39,1,0,1686037330,"~/vi/beginning_of_the_line"
--'  1  0  ~/vi/beginning_of_the_line
-|4,39,1,0,1686037330,"~/vi/beginning_of_the_line"
--'  1  0  ~/vi/beginning_of_the_line
-|4,39,1,0,1686037330,"~/vi/beginning_of_the_line"
--'  1  0  ~/vi/beginning_of_the_line
-|4,39,1,0,1686037330,"~/vi/beginning_of_the_line"
--'  1  0  ~/vi/beginning_of_the_line
-|4,39,1,0,1686037330,"~/vi/beginning_of_the_line"
--'  1  0  ~/vi/beginning_of_the_line
-|4,39,1,0,1686037330,"~/vi/beginning_of_the_line"
--'  1  0  ~/vi/beginning_of_the_line
-|4,39,1,0,1686037330,"~/vi/beginning_of_the_line"
--'  1  0  ~/vi/beginning_of_the_line
-|4,39,1,0,1686037330,"~/vi/beginning_of_the_line"
--'  1  0  ~/vi/beginning_of_the_line
-|4,39,1,0,1686037330,"~/vi/beginning_of_the_line"
--'  1  0  ~/vi/beginning_of_the_line
-|4,39,1,0,1686037330,"~/vi/beginning_of_the_line"
--'  1  0  ~/vi/beginning_of_the_line
-|4,39,1,0,1686037330,"~/vi/beginning_of_the_line"
--'  1  0  ~/vi/beginning_of_the_line
-|4,39,1,0,1686037330,"~/vi/beginning_of_the_line"
--'  1  0  ~/vi/beginning_of_the_line
-|4,39,1,0,1686037330,"~/vi/beginning_of_the_line"
--'  1  0  ~/vi/beginning_of_the_line
-|4,39,1,0,1686037330,"~/vi/beginning_of_the_line"
--'  1  0  ~/vi/beginning_of_the_line
-|4,39,1,0,1686037330,"~/vi/beginning_of_the_line"
--'  1  0  ~/vi/beginning_of_the_line
-|4,39,1,0,1686037330,"~/vi/beginning_of_the_line"
--'  1  0  ~/vi/beginning_of_the_line
-|4,39,1,0,1686037330,"~/vi/beginning_of_the_line"
--'  1  0  ~/vi/beginning_of_the_line
-|4,39,1,0,1686037330,"~/vi/beginning_of_the_line"
--'  1  0  ~/vi/beginning_of_the_line
-|4,39,1,0,1686037330,"~/vi/beginning_of_the_line"
--'  1  0  ~/vi/beginning_of_the_line
-|4,39,1,0,1686037330,"~/vi/beginning_of_the_line"
--'  1  0  ~/vi/beginning_of_the_line
-|4,39,1,0,1686037330,"~/vi/beginning_of_the_line"
--'  1  0  ~/vi/beginning_of_the_line
-|4,39,1,0,1686037330,"~/vi/beginning_of_the_line"
--'  1  0  ~/vi/beginning_of_the_line
-|4,39,1,0,1686037330,"~/vi/beginning_of_the_line"
--'  1  0  ~/vi/beginning_of_the_line
-|4,39,1,0,1686037330,"~/vi/beginning_of_the_line"
--'  1  0  ~/vi/beginning_of_the_line
-|4,39,1,0,1686037330,"~/vi/beginning_of_the_line"
--'  1  1  ~/vi/exiting
-|4,39,1,1,1686037118,"~/vi/exiting"
--'  1  1  ~/vi/exiting
-|4,39,1,1,1686037118,"~/vi/exiting"
--'  1  1  ~/vi/exiting
-|4,39,1,1,1686037118,"~/vi/exiting"
--'  1  1  ~/vi/exiting
-|4,39,1,1,1686037118,"~/vi/exiting"
--'  1  1  ~/vi/exiting
-|4,39,1,1,1686037118,"~/vi/exiting"
--'  1  1  ~/vi/exiting
-|4,39,1,1,1686037118,"~/vi/exiting"
--'  1  1  ~/vi/exiting
-|4,39,1,1,1686037118,"~/vi/exiting"
--'  1  1  ~/vi/exiting
-|4,39,1,1,1686037118,"~/vi/exiting"
--'  1  1  ~/vi/exiting
-|4,39,1,1,1686037118,"~/vi/exiting"
--'  1  1  ~/vi/exiting
-|4,39,1,1,1686037118,"~/vi/exiting"
--'  1  1  ~/vi/exiting
-|4,39,1,1,1686037118,"~/vi/exiting"
--'  1  1  ~/vi/exiting
-|4,39,1,1,1686037118,"~/vi/exiting"
--'  1  1  ~/vi/exiting
-|4,39,1,1,1686037118,"~/vi/exiting"
--'  1  1  ~/vi/exiting
-|4,39,1,1,1686037118,"~/vi/exiting"
--'  1  1  ~/vi/exiting
-|4,39,1,1,1686037118,"~/vi/exiting"
--'  1  1  ~/vi/exiting
-|4,39,1,1,1686037118,"~/vi/exiting"
--'  1  1  ~/vi/exiting
-|4,39,1,1,1686037118,"~/vi/exiting"
--'  1  1  ~/vi/exiting
-|4,39,1,1,1686037118,"~/vi/exiting"
--'  1  1  ~/vi/exiting
-|4,39,1,1,1686037118,"~/vi/exiting"
--'  1  1  ~/vi/exiting
-|4,39,1,1,1686037118,"~/vi/exiting"
--'  1  1  ~/vi/exiting
-|4,39,1,1,1686037118,"~/vi/exiting"
--'  1  1  ~/vi/exiting
-|4,39,1,1,1686037118,"~/vi/exiting"
--'  1  1  ~/vi/exiting
-|4,39,1,1,1686037118,"~/vi/exiting"
--'  1  1  ~/vi/exiting
-|4,39,1,1,1686037118,"~/vi/exiting"
--'  1  1  ~/vi/exiting
-|4,39,1,1,1686037118,"~/vi/exiting"
--'  1  1  ~/vi/exiting
-|4,39,1,1,1686037118,"~/vi/exiting"
--'  1  1  ~/vi/exiting
-|4,39,1,1,1686037118,"~/vi/exiting"
--'  1  1  ~/vi/exiting
-|4,39,1,1,1686037118,"~/vi/exiting"
--'  1  1  ~/vi/exiting
-|4,39,1,1,1686037118,"~/vi/exiting"
--'  1  1  ~/vi/exiting
-|4,39,1,1,1686037118,"~/vi/exiting"
--'  1  1  ~/vi/exiting
-|4,39,1,1,1686037118,"~/vi/exiting"
--'  1  1  ~/vi/exiting
-|4,39,1,1,1686037118,"~/vi/exiting"
--'  1  1  ~/vi/exiting
-|4,39,1,1,1686037118,"~/vi/exiting"
--'  1  1  ~/vi/exiting
-|4,39,1,1,1686037118,"~/vi/exiting"
--'  1  1  ~/vi/exiting
-|4,39,1,1,1686037118,"~/vi/exiting"
--'  1  1  ~/vi/exiting
-|4,39,1,1,1686037118,"~/vi/exiting"
--'  1  1  ~/vi/exiting
-|4,39,1,1,1686037118,"~/vi/exiting"
--'  1  1  ~/vi/exiting
-|4,39,1,1,1686037118,"~/vi/exiting"
+-'  3  0  ~/holbertonschool-shell/basics/0-current_working_directory
+|4,39,3,0,1686158216,"~/holbertonschool-shell/basics/0-current_working_directory"
+-'  2  2  ~/holbertonschool-shell/basics/0-current_working_directory
+|4,39,2,2,1686158170,"~/holbertonschool-shell/basics/0-current_working_directory"
+-'  2  2  ~/holbertonschool-shell/basics/0-current_working_directory
+|4,39,2,2,1686157822,"~/holbertonschool-shell/basics/0-current_working_directory"
+-'  1  0  ~/holbertonschool-shell/basics/0-current_working_directory
+|4,39,1,0,1686157755,"~/holbertonschool-shell/basics/0-current_working_directory"
+-'  1  0  ~/holbertonschool-shell/basics/0-current_working_directory
+|4,39,1,0,1686157755,"~/holbertonschool-shell/basics/0-current_working_directory"
+-'  2  0  ~/holbertonschool-shell/basics/0-current_working_directory
+|4,39,2,0,1686153786,"~/holbertonschool-shell/basics/0-current_working_directory"
+-'  2  0  ~/holbertonschool-shell/basics/0-current_working_directory
+|4,39,2,0,1686152564,"~/holbertonschool-shell/basics/0-current_working_directory"
+-'  2  0  ~/holbertonschool-shell/basics/0-current_working_directory
+|4,39,2,0,1686143856,"~/holbertonschool-shell/basics/0-current_working_directory"
+-'  1  0  ~/holbertonschool-shell/basics/0-current_working_directory
+|4,39,1,0,1686143818,"~/holbertonschool-shell/basics/0-current_working_directory"
+-'  1  0  ~/holbertonschool-shell/basics/0-current_working_directory
+|4,39,1,0,1686143818,"~/holbertonschool-shell/basics/0-current_working_directory"
+-'  1  0  ~/holbertonschool-shell/basics/0-current_working_directory
+|4,39,1,0,1686143818,"~/holbertonschool-shell/basics/0-current_working_directory"
+-'  2  2  ~/holbertonschool-shell/basics/0-current_working_directory
+|4,39,2,2,1686142288,"~/holbertonschool-shell/basics/0-current_working_directory"
+-'  1  0  ~/holbertonschool-shell/basics/0-current_working_directory
+|4,39,1,0,1686142223,"~/holbertonschool-shell/basics/0-current_working_directory"
+-'  3  0  ~/holbertonschool-shell/basics/0-current_working_directory
+|4,39,3,0,1686140985,"~/holbertonschool-shell/basics/0-current_working_directory"
+-'  3  0  ~/holbertonschool-shell/basics/0-current_working_directory
+|4,39,3,0,1686140985,"~/holbertonschool-shell/basics/0-current_working_directory"
+-'  3  0  ~/holbertonschool-shell/basics/0-current_working_directory
+|4,39,3,0,1686140985,"~/holbertonschool-shell/basics/0-current_working_directory"
+-'  3  0  ~/holbertonschool-shell/basics/0-current_working_directory
+|4,39,3,0,1686140985,"~/holbertonschool-shell/basics/0-current_working_directory"
+-'  3  0  ~/holbertonschool-shell/basics/0-current_working_directory
+|4,39,3,0,1686140985,"~/holbertonschool-shell/basics/0-current_working_directory"
+-'  3  0  ~/holbertonschool-shell/basics/0-current_working_directory
+|4,39,3,0,1686140985,"~/holbertonschool-shell/basics/0-current_working_directory"
+-'  2  82  ~/holbertonschool-shell/basics/README.md
+|4,39,2,82,1686134400,"~/holbertonschool-shell/basics/README.md"
+-'  2  82  ~/holbertonschool-shell/basics/README.md
+|4,39,2,82,1686134400,"~/holbertonschool-shell/basics/README.md"
+-'  2  82  ~/holbertonschool-shell/basics/README.md
+|4,39,2,82,1686134400,"~/holbertonschool-shell/basics/README.md"
+-'  2  82  ~/holbertonschool-shell/basics/README.md
+|4,39,2,82,1686134400,"~/holbertonschool-shell/basics/README.md"
+-'  2  82  ~/holbertonschool-shell/basics/README.md
+|4,39,2,82,1686134400,"~/holbertonschool-shell/basics/README.md"
+-'  2  82  ~/holbertonschool-shell/basics/README.md
+|4,39,2,82,1686134400,"~/holbertonschool-shell/basics/README.md"
+-'  2  82  ~/holbertonschool-shell/basics/README.md
+|4,39,2,82,1686134400,"~/holbertonschool-shell/basics/README.md"
+-'  2  82  ~/holbertonschool-shell/basics/README.md
+|4,39,2,82,1686134400,"~/holbertonschool-shell/basics/README.md"
+-'  2  82  ~/holbertonschool-shell/basics/README.md
+|4,39,2,82,1686134400,"~/holbertonschool-shell/basics/README.md"
+-'  2  82  ~/holbertonschool-shell/basics/README.md
+|4,39,2,82,1686134400,"~/holbertonschool-shell/basics/README.md"
+-'  2  82  ~/holbertonschool-shell/basics/README.md
+|4,39,2,82,1686134400,"~/holbertonschool-shell/basics/README.md"
+-'  2  82  ~/holbertonschool-shell/basics/README.md
+|4,39,2,82,1686134400,"~/holbertonschool-shell/basics/README.md"
+-'  2  82  ~/holbertonschool-shell/basics/README.md
+|4,39,2,82,1686134400,"~/holbertonschool-shell/basics/README.md"
+-'  2  82  ~/holbertonschool-shell/basics/README.md
+|4,39,2,82,1686134400,"~/holbertonschool-shell/basics/README.md"
+-'  2  82  ~/holbertonschool-shell/basics/README.md
+|4,39,2,82,1686134400,"~/holbertonschool-shell/basics/README.md"
+-'  2  82  ~/holbertonschool-shell/basics/README.md
+|4,39,2,82,1686134400,"~/holbertonschool-shell/basics/README.md"
+-'  2  82  ~/holbertonschool-shell/basics/README.md
+|4,39,2,82,1686134400,"~/holbertonschool-shell/basics/README.md"
+-'  2  82  ~/holbertonschool-shell/basics/README.md
+|4,39,2,82,1686134400,"~/holbertonschool-shell/basics/README.md"
+-'  2  82  ~/holbertonschool-shell/basics/README.md
+|4,39,2,82,1686134400,"~/holbertonschool-shell/basics/README.md"
+-'  2  82  ~/holbertonschool-shell/basics/README.md
+|4,39,2,82,1686134400,"~/holbertonschool-shell/basics/README.md"
+-'  2  82  ~/holbertonschool-shell/basics/README.md
+|4,39,2,82,1686134400,"~/holbertonschool-shell/basics/README.md"
+-'  2  82  ~/holbertonschool-shell/basics/README.md
+|4,39,2,82,1686134400,"~/holbertonschool-shell/basics/README.md"
+-'  2  82  ~/holbertonschool-shell/basics/README.md
+|4,39,2,82,1686134400,"~/holbertonschool-shell/basics/README.md"
+-'  2  82  ~/holbertonschool-shell/basics/README.md
+|4,39,2,82,1686134400,"~/holbertonschool-shell/basics/README.md"
+-'  2  82  ~/holbertonschool-shell/basics/README.md
+|4,39,2,82,1686134400,"~/holbertonschool-shell/basics/README.md"
+-'  2  82  ~/holbertonschool-shell/basics/README.md
+|4,39,2,82,1686134400,"~/holbertonschool-shell/basics/README.md"
+-'  2  82  ~/holbertonschool-shell/basics/README.md
+|4,39,2,82,1686134400,"~/holbertonschool-shell/basics/README.md"
+-'  2  82  ~/holbertonschool-shell/basics/README.md
+|4,39,2,82,1686134400,"~/holbertonschool-shell/basics/README.md"
+-'  2  82  ~/holbertonschool-shell/basics/README.md
+|4,39,2,82,1686134400,"~/holbertonschool-shell/basics/README.md"
+-'  2  82  ~/holbertonschool-shell/basics/README.md
+|4,39,2,82,1686134400,"~/holbertonschool-shell/basics/README.md"
+-'  2  82  ~/holbertonschool-shell/basics/README.md
+|4,39,2,82,1686134400,"~/holbertonschool-shell/basics/README.md"
+-'  2  82  ~/holbertonschool-shell/basics/README.md
+|4,39,2,82,1686134400,"~/holbertonschool-shell/basics/README.md"
+-'  2  82  ~/holbertonschool-shell/basics/README.md
+|4,39,2,82,1686134400,"~/holbertonschool-shell/basics/README.md"
+-'  2  82  ~/holbertonschool-shell/basics/README.md
+|4,39,2,82,1686134400,"~/holbertonschool-shell/basics/README.md"
+-'  2  82  ~/holbertonschool-shell/basics/README.md
+|4,39,2,82,1686134400,"~/holbertonschool-shell/basics/README.md"
+-'  2  82  ~/holbertonschool-shell/basics/README.md
+|4,39,2,82,1686134400,"~/holbertonschool-shell/basics/README.md"
+-'  2  82  ~/holbertonschool-shell/basics/README.md
+|4,39,2,82,1686134400,"~/holbertonschool-shell/basics/README.md"
+-'  2  82  ~/holbertonschool-shell/basics/README.md
+|4,39,2,82,1686134400,"~/holbertonschool-shell/basics/README.md"
+-'  2  82  ~/holbertonschool-shell/basics/README.md
+|4,39,2,82,1686134400,"~/holbertonschool-shell/basics/README.md"
+-'  2  82  ~/holbertonschool-shell/basics/README.md
+|4,39,2,82,1686134400,"~/holbertonschool-shell/basics/README.md"
+-'  2  82  ~/holbertonschool-shell/basics/README.md
+|4,39,2,82,1686134400,"~/holbertonschool-shell/basics/README.md"
+-'  2  82  ~/holbertonschool-shell/basics/README.md
+|4,39,2,82,1686134400,"~/holbertonschool-shell/basics/README.md"
+-'  2  82  ~/holbertonschool-shell/basics/README.md
+|4,39,2,82,1686134400,"~/holbertonschool-shell/basics/README.md"
+-'  2  82  ~/holbertonschool-shell/basics/README.md
+|4,39,2,82,1686134400,"~/holbertonschool-shell/basics/README.md"
+-'  2  82  ~/holbertonschool-shell/basics/README.md
+|4,39,2,82,1686134400,"~/holbertonschool-shell/basics/README.md"
+-'  2  82  ~/holbertonschool-shell/basics/README.md
+|4,39,2,82,1686134400,"~/holbertonschool-shell/basics/README.md"
+-'  2  82  ~/holbertonschool-shell/basics/README.md
+|4,39,2,82,1686134400,"~/holbertonschool-shell/basics/README.md"
+-'  2  82  ~/holbertonschool-shell/basics/README.md
+|4,39,2,82,1686134400,"~/holbertonschool-shell/basics/README.md"
+-'  2  82  ~/holbertonschool-shell/basics/README.md
+|4,39,2,82,1686134400,"~/holbertonschool-shell/basics/README.md"
+-'  2  82  ~/holbertonschool-shell/basics/README.md
+|4,39,2,82,1686134400,"~/holbertonschool-shell/basics/README.md"
+-'  2  82  ~/holbertonschool-shell/basics/README.md
+|4,39,2,82,1686134400,"~/holbertonschool-shell/basics/README.md"
+-'  2  82  ~/holbertonschool-shell/basics/README.md
+|4,39,2,82,1686134400,"~/holbertonschool-shell/basics/README.md"
+-'  2  82  ~/holbertonschool-shell/basics/README.md
+|4,39,2,82,1686134400,"~/holbertonschool-shell/basics/README.md"
+-'  2  82  ~/holbertonschool-shell/basics/README.md
+|4,39,2,82,1686134400,"~/holbertonschool-shell/basics/README.md"
+-'  2  82  ~/holbertonschool-shell/basics/README.md
+|4,39,2,82,1686134400,"~/holbertonschool-shell/basics/README.md"
+-'  2  82  ~/holbertonschool-shell/basics/README.md
+|4,39,2,82,1686134400,"~/holbertonschool-shell/basics/README.md"
+-'  2  82  ~/holbertonschool-shell/basics/README.md
+|4,39,2,82,1686134400,"~/holbertonschool-shell/basics/README.md"
+-'  2  82  ~/holbertonschool-shell/basics/README.md
+|4,39,2,82,1686134400,"~/holbertonschool-shell/basics/README.md"
+-'  2  82  ~/holbertonschool-shell/basics/README.md
+|4,39,2,82,1686134400,"~/holbertonschool-shell/basics/README.md"
+-'  2  82  ~/holbertonschool-shell/basics/README.md
+|4,39,2,82,1686134400,"~/holbertonschool-shell/basics/README.md"
+-'  2  82  ~/holbertonschool-shell/basics/README.md
+|4,39,2,82,1686134400,"~/holbertonschool-shell/basics/README.md"
+-'  2  82  ~/holbertonschool-shell/basics/README.md
+|4,39,2,82,1686134400,"~/holbertonschool-shell/basics/README.md"
+-'  2  82  ~/holbertonschool-shell/basics/README.md
+|4,39,2,82,1686134400,"~/holbertonschool-shell/basics/README.md"
+-'  2  82  ~/holbertonschool-shell/basics/README.md
+|4,39,2,82,1686134400,"~/holbertonschool-shell/basics/README.md"
+-'  2  82  ~/holbertonschool-shell/basics/README.md
+|4,39,2,82,1686134400,"~/holbertonschool-shell/basics/README.md"
+-'  2  82  ~/holbertonschool-shell/basics/README.md
+|4,39,2,82,1686134400,"~/holbertonschool-shell/basics/README.md"
+-'  2  82  ~/holbertonschool-shell/basics/README.md
+|4,39,2,82,1686134400,"~/holbertonschool-shell/basics/README.md"
+-'  2  82  ~/holbertonschool-shell/basics/README.md
+|4,39,2,82,1686134400,"~/holbertonschool-shell/basics/README.md"
+-'  2  82  ~/holbertonschool-shell/basics/README.md
+|4,39,2,82,1686134400,"~/holbertonschool-shell/basics/README.md"
+-'  2  82  ~/holbertonschool-shell/basics/README.md
+|4,39,2,82,1686134400,"~/holbertonschool-shell/basics/README.md"
+-'  2  82  ~/holbertonschool-shell/basics/README.md
+|4,39,2,82,1686134400,"~/holbertonschool-shell/basics/README.md"
+-'  2  82  ~/holbertonschool-shell/basics/README.md
+|4,39,2,82,1686134400,"~/holbertonschool-shell/basics/README.md"
+-'  2  82  ~/holbertonschool-shell/basics/README.md
+|4,39,2,82,1686134400,"~/holbertonschool-shell/basics/README.md"
+-'  2  82  ~/holbertonschool-shell/basics/README.md
+|4,39,2,82,1686134400,"~/holbertonschool-shell/basics/README.md"
+-'  2  82  ~/holbertonschool-shell/basics/README.md
+|4,39,2,82,1686134400,"~/holbertonschool-shell/basics/README.md"
+-'  2  82  ~/holbertonschool-shell/basics/README.md
+|4,39,2,82,1686134400,"~/holbertonschool-shell/basics/README.md"
+-'  2  82  ~/holbertonschool-shell/basics/README.md
+|4,39,2,82,1686134400,"~/holbertonschool-shell/basics/README.md"
+-'  2  82  ~/holbertonschool-shell/basics/README.md
+|4,39,2,82,1686134400,"~/holbertonschool-shell/basics/README.md"
+-'  2  82  ~/holbertonschool-shell/basics/README.md
+|4,39,2,82,1686134400,"~/holbertonschool-shell/basics/README.md"
+-'  2  82  ~/holbertonschool-shell/basics/README.md
+|4,39,2,82,1686134400,"~/holbertonschool-shell/basics/README.md"
+-'  2  82  ~/holbertonschool-shell/basics/README.md
+|4,39,2,82,1686134400,"~/holbertonschool-shell/basics/README.md"
 
 # History of marks within files (newest to oldest):
 
+> ~/holbertonschool-shell/basics/0-current_working_directory
+	*	1686158210	0
+	"	3	0
+	^	3	0
+	.	3	0
+	+	2	3
+	+	3	0
+	+	1	11
+	+	2	2
+	+	2	3
+	+	1	11
+	+	2	3
+	+	3	0
+
+> ~/holbertonschool-shell/basics/README.md
+	*	1686134389	0
+	"	2	82
+	^	2	83
+	.	2	82
+	+	1	15
+	+	2	82
+
 > ~/holbertonschool-zero_day/git/README.md
-	*	1686049219	0
-	"	1	0
+	*	1686128317	0
+	"	7	135
+	^	7	136
+	.	7	136
+	+	7	136
+
+> ~/holbertonschool-zero_day/git/up_to_date
+	*	1686126826	0
+	"	1	7
+	^	1	8
+	.	1	7
+	+	1	7
+
+> /holbertonschool-zero_day/git/up_to_date
+	*	1686122749	0
+	"	2	0
+	^	2	0
+	.	1	8
+	+	1	8
+
+> /up_to_date
+	*	1686122604	0
+	"	1	8
+	^	1	9
+	.	1	9
+	+	1	9
+
+> ~/holbertonschool-zero_day/git/bash/School
+	*	1686077377	0
+	"	1	17
+	^	1	18
+	.	1	17
+	+	1	17
+
+> ~/holbertonschool-zero_day/git/bash/Best
+	*	1686077253	0
+	"	1	10
+	^	1	11
+	.	1	10
+	+	1	10
 
 > ~/vi/undoing
 	*	1686037754	0
