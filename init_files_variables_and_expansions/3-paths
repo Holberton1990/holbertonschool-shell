@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Number of directories in the PATH: $count"
+ls -l | grep -c ^d
