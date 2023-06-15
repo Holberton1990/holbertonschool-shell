@@ -1,2 +1,3 @@
 #!/bin/bash
-printf "%X" "$decimal"
+hexadecimal=$(echo "obase=16; $decimal" | bc)
+
