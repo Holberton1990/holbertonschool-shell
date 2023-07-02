@@ -1,4 +1,4 @@
-he  # Emacs 
+ # Emacs 
 
 Emacs is a powerful and extensible text editor that originated in the 1970s. It provides a wide range of features and capabilities, including text editing, code development, email, web browsing, and more. Emacs is highly customizable and offers a unique interface that allows users to interact with the editor using keybindings and commands.
 
